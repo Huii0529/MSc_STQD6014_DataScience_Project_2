@@ -134,6 +134,8 @@ OECD. (2025). *Supporting Informed and Safe Use of Digital Payments Through Digi
 
 **FANG JIA HUI**
 
-MSc of Data Science & Analytics
+MSc in Data Science & Analytics
 
 Universiti Kebangsaan Malaysia (UKM)
+
+_This project was completed as part of the Master of Science in Data Science programme for academic purposes._
