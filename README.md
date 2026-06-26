@@ -26,13 +26,7 @@ The objectives of this study are to:
 
 **Source**
 
-World Bank Data360
-
-Indicator:
-**Credit Card Ownership (% Age 15+)**
-
-Dataset:
-https://data360.worldbank.org/en/indicator/WB_GS_FIN7_T_A
+World Bank Data360 (https://data360.worldbank.org/en/indicator/WB_GS_FIN7_T_A)
 
 ---
 
@@ -51,6 +45,7 @@ https://data360.worldbank.org/en/indicator/WB_GS_FIN7_T_A
 
 The following preprocessing steps were performed:
 
+- Download dataset from the source
 - Uploaded the dataset into Google Colab
 - Cleaned column names
 - Renamed variables for easier interpretation
@@ -101,24 +96,6 @@ The project includes six visualisations:
 - Canada, Israel, and Iceland recorded the highest ownership rates in 2021.
 - Most countries have relatively low credit card ownership, while only a few developed economies show very high adoption.
 - Country-level differences are more pronounced than gender differences, suggesting that economic development and financial infrastructure play important roles in credit card adoption.
-
----
-
-## Project Structure
-
-```
-├── CreditCardOwnershipAnalysis.ipynb
-├── README.md
-├── data/
-│   └── credit_card_ownership.csv
-├── images/
-│   ├── gender_trend.png
-│   ├── overall_trend.png
-│   ├── top10_countries.png
-│   ├── boxplot_gender.png
-│   ├── histogram_distribution.png
-│   └── gender_piechart.png
-```
 
 ---
 
